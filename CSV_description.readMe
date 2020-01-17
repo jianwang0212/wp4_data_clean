@@ -1,0 +1,26 @@
+CSV description:
+1) Calculate frequency counts and percentage frequencies of CanonSkills and CanonSkillClusters terms for a sub-sampe of job ads tagged as CanonCounty 'Oxfordshire';
+
+2) Calculate frequency counts and percentage frequencies of CanonSkills and CanonSkillClusters terms for a sub-sampe of job ads tagged as CanonCounty 'Oxfordshire' for each SICCode;
+
+3) Calculate frequency counts and percentage frequencies of CanonSkills and CanonSkillClusters terms for a sub-sampe of job ads tagged as CanonCounty 'Oxfordshire' for each SOCCode;
+
+4) Calculate frequency counts and percentage frequencies of CanonSkills and CanonSkillClusters terms for a sub-sampe of job ads tagged as CanonCounty 'Oxfordshire' for each LocalAuthorityDistrict;
+
+5) Calculate frequency counts and percentage frequencies of CanonSkills and CanonSkillClusters terms for a sub-sampe of job ads tagged as CanonCounty 'Oxfordshire' for each CanonCity.
+
+> - Each CanonSkill for the Oxfordshire sub-sample as a percentage of total CanonSkills for Oxfordshire sub-sample
+
+> - Each CanonSkill by SIC code in the Oxfordshire sub-sample as a percentage of total CanonSkills by the same SIC code in the Oxfordshire sub-sample
+
+> - Each CanonSkill by SOC code in the Oxfordshire sub-sample as a percentage of total CanonSkills by the same SOC code in the Oxfordshire sub-sample
+
+> - Each CanonSkill by LocalAuthorityDistrict in the Oxfordshire sub-sample as a percentage of total CanonSkills by the same LocalAuthorityDistrict in the Oxfordshire sub-sample
+
+> - Each CanonSkill by CanonCity in the Oxfordshire sub-sample as a percentage of total CanonSkills by the same CanonCity in the Oxfordshire sub-sample
+
+6) Frequency counts & year on year growth of CanonSkills from 2012 - 2019 (skill_count_df6_reshape & skill_count_df6_reshape_percent)
+
+7) Frequency counts of CanonSkills month on month growth from Jan to Oct in 2019 (skill_count_df7_reshape & skill_count_df7_reshape_percent)
+
+The new files are still in: https://drive.google.com/open?id=1WDOyNi8McF_sh4kMjlCkc1zioLaGdcay
